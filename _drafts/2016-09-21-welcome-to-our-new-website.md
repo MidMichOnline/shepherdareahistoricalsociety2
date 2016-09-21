@@ -5,9 +5,8 @@ author: Jon Morgan
 post_date: 2016-09-21 01:56:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/sahs2/2016/09/21/welcome-to-our-new-website/
-published: true
+permalink: 'http://www.shepherdhistory.org/sahs2?p=156&preview=true&preview_id=156'
+published: false
 post_views_count:
   - 'a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"7";}";}";}'
 tags: [ ]
