@@ -1,13 +1,15 @@
 ---
-ID: 9
+ID: 13
 post_title: History
-author: calauffer@charter.net
-post_date: 2016-05-07 17:01:20
+author: Jon Morgan
+post_date: 2016-09-21 01:55:30
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/sample-page/history/
+  http://www.shepherdhistory.org/sahs2/history/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 <h2>History of the Villages of Salt River and Shepherd</h2>
 

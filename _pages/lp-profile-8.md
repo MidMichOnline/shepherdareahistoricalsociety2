@@ -1,11 +1,13 @@
 ---
-ID: 47
+ID: 31
 post_title: LP Profile
-author: ng23055
-post_date: 2016-09-05 17:48:03
+author: Jon Morgan
+post_date: 2016-09-21 01:55:34
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/lp-profile-8/
+  http://www.shepherdhistory.org/sahs2/lp-profile-8/
 published: true
+tags: [ ]
+categories: [ ]
 ---

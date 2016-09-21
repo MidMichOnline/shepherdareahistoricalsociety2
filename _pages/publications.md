@@ -1,13 +1,15 @@
 ---
-ID: 15
+ID: 59
 post_title: Publications
-author: calauffer@charter.net
-post_date: 2016-05-07 17:04:58
+author: Jon Morgan
+post_date: 2016-09-21 01:55:40
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/sample-page/publications/
+  http://www.shepherdhistory.org/sahs2/publications/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 <h2 align="left">Books</h2>
 

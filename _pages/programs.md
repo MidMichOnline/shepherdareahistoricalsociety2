@@ -1,12 +1,14 @@
 ---
-ID: 18
+ID: 53
 post_title: Programs
-author: calauffer@charter.net
-post_date: 2016-05-07 17:06:08
+author: Jon Morgan
+post_date: 2016-09-21 01:55:38
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/sample-page/programs/
+  http://www.shepherdhistory.org/sahs2/programs/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 TBA

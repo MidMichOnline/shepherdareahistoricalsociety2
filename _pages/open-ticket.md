@@ -1,12 +1,14 @@
 ---
-ID: 68
+ID: 49
 post_title: Open Ticket
-author: ng23055
-post_date: 2016-09-05 17:48:06
+author: Jon Morgan
+post_date: 2016-09-21 01:55:38
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/open-ticket/
+  http://www.shepherdhistory.org/sahs2/open-ticket/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 [wpsp_open_ticket]

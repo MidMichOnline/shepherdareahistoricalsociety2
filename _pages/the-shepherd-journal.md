@@ -1,11 +1,13 @@
 ---
-ID: 105
+ID: 86
 post_title: The Shepherd Journal
-author: ng23055
-post_date: 2016-09-05 17:48:12
+author: Jon Morgan
+post_date: 2016-09-21 01:55:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/the-shepherd-journal/
+  http://www.shepherdhistory.org/sahs2/the-shepherd-journal/
 published: true
+tags: [ ]
+categories: [ ]
 ---

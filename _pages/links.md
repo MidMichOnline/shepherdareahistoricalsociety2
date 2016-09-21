@@ -1,13 +1,15 @@
 ---
-ID: 11
+ID: 15
 post_title: Links
-author: calauffer@charter.net
-post_date: 2016-05-07 17:02:10
+author: Jon Morgan
+post_date: 2016-09-21 01:55:30
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/sample-page/links/
+  http://www.shepherdhistory.org/sahs2/links/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 <h2>Isabella County History &amp; Genealogy Links</h2>
 

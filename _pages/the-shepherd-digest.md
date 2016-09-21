@@ -1,12 +1,14 @@
 ---
-ID: 99
+ID: 84
 post_title: The Shepherd Digest
-author: ng23055
-post_date: 2016-09-05 17:48:11
+author: Jon Morgan
+post_date: 2016-09-21 01:55:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/the-shepherd-digest/
+  http://www.shepherdhistory.org/sahs2/the-shepherd-digest/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 [otw-bm-list id="5"]
