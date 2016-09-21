@@ -5,9 +5,8 @@ author: Jon Morgan
 post_date: 2016-09-21 01:56:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/sahs2/2016/09/21/the-shepherd-digest-august-19-2016/
-published: true
+permalink: 'http://www.shepherdhistory.org/sahs2?p=152&preview=true&preview_id=152'
+published: false
 tags: [ ]
 categories:
   - Uncategorized
